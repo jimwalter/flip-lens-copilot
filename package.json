@@ -1,0 +1,21 @@
+{
+  "name": "flip-lens-copilot",
+  "version": "1.0.0",
+  "description": "Screenshot estate sale items and search with Google Lens",
+  "main": "background.js",
+  "scripts": {
+    "dev": "echo 'Load extension manually in chrome://extensions'",
+    "test": "echo 'Testing extension'"
+  },
+  "keywords": [
+    "chrome-extension",
+    "google-lens",
+    "reverse-image-search",
+    "estate-sales"
+  ],
+  "author": "Jim Walter",
+  "license": "MIT",
+  "devDependencies": {
+    "html2canvas": "^1.4.1"
+  }
+}
